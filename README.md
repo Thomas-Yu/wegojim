@@ -18,4 +18,4 @@ App Features:
 
 -Viewing and adding workouts for a given day
 
-<img src="https://user-images.githubusercontent.com/42897266/186129203-3dd65c14-f2d8-4e44-9732-6edcc6bda3d9.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/42897266/186129337-fe552237-cf98-40aa-84c0-6e694882cf0e.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/42897266/186129529-9ae84b1b-d9e2-4886-b775-47b4faf1eb5a.png" width=25% height=25%> <img src="https://user-images.githubusercontent.com/42897266/186129619-7299f8bf-b902-41c9-9e64-5f1ea02b3cff.png)" width=25% height=25%>
