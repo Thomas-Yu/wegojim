@@ -1,6 +1,8 @@
 <resources>
-    <string name="app_name">WeGoJim</string>
+    <string name="app_name">Create Workout</string>
     <string name="title_home">Home</string>
     <string name="title_exercises">Exercises</string>
     <string name="title_workouts">Workouts</string>
+    <string name="title_createWorkout">Create Workout</string>
+    <string name="title_addWorkout">Add Workout</string>
 </resources>

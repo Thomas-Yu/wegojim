@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../wegojim/app/src/main/res/layout/activity_create_workout.xml" value="0.2703125" />
         <entry key="../wegojim/app/src/main/res/layout/fragment_dashboard.xml" value="0.1650299072265624" />
-        <entry key="../wegojim/app/src/main/res/layout/fragment_home.xml" value="0.1388888888888889" />
-        <entry key="../wegojim/app/src/main/res/layout/fragment_notifications.xml" value="0.1446480231436837" />
+        <entry key="../wegojim/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="../wegojim/app/src/main/res/layout/fragment_notifications.xml" value="0.25" />
         <entry key="../wegojim/app/src/main/res/layout/textview.xml" value="0.2703125" />
       </map>
     </option>
   </component>
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>
